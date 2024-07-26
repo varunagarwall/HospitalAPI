@@ -35,23 +35,6 @@
 ### start the server
 `npm start`
 
-### This is my doctors register
-![Alt text](images/01.png)
-
-
-### This is my doctor login
-![Alt text](images/02.png)
-
-### This is my patients register
-![Alt text](images/03.jpeg)
-
-### This is my patients create_report
-![Alt text](images/04.jpeg)
-
-### This is my patients all_reports
-![Alt text](images/05.jpeg)
-
-### Note:: I have checked the given api and upload and attached it to my images folder as well 
 
 ## Folder Structure
 
@@ -65,21 +48,15 @@
 | ---    | -- | -- v1<br>
 | ---    | -- | -- | -- doctor_controller<br>
 | ---    | -- | -- | -- patient_controller<br>
-| ---    | -- | -- | -- report_controller<br>
+| ---    | -- | -- | -- home_controller<br>
 | ---    images<br>
 | ---     models<br>
 | ---     | -- doctor<br>
 | ---     | -- patient<br>
-| ---     | -- report<br>
 | ---     routes<br>
-| ---     | --api<br>
-| ---     | --| -- v1<br>
 | ---     | --| --  | --- doctors<br>
 | ---     | --| --  | --- index<br>
 | ---     | --| --  | --- patients<br>
-| ---     | --| --  | --- reports<br>
-| ---     | --| -- index<br>
-| ---     | -- index<br> 
 | ---     .gitignore<br>
 | ---      index<br>
 | ---      package-lock.json<br>
